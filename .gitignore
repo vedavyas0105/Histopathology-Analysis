@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter notebooks checkpoint folders
+.ipynb_checkpoints/
+.later/
+
+# Local configuration
+.DS_Store
+Thumbs.db
+
+# Logs and tensorboard runs
+logs/
+
+# Model checkpoints and weights
+checkpoints/
+
+# Large datasets
+data/
+
+# Experiment outputs and results
+results/
+
+# Reports and personal documents
+*.pdf
+*.tex
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
